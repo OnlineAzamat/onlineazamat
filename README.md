@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azamat</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Metaverse](https://github.com/OnlineAzamat/metaversus)
+- 🔭 I’m currently working on [Metaverse](https://metaverse-bice-five.vercel.app)
 
 - 💬 Ask me about **javascript, react and next**
 
