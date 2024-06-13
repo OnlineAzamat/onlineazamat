@@ -7,6 +7,13 @@
 
 - ⚡ Fun fact **I think I am outgoing**
 
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlineazamat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/onlineazamat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="onlineazamat" height="30" width="30" /></a>
