@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azamat</h1>
 <h2 align="center">Software Engineer</h2>
 
-- 💬 Ask me about **javascript, react, nodejs, express, mysql, postgresql, mongodb**
+- 💬 Ask me about **javascript & typescript, react & nextjs, nodejs**
 
 - 📫 How to reach me **yakubbaevdev@gmail.com**
 
